@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755735877 source:c:\users\mmahi\desktop\c pratice\sayýnýn karekökünün tam sayý olup olmadýðýný kontrol etme\main.c
+	<stdio.h>
+	<stdlib.h>
+

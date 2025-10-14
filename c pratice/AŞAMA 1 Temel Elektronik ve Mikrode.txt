@@ -1,0 +1,48 @@
+ AŞAMA 1: Temel Elektronik ve Mikrodenetleyici Bilgisi
+Süre: 2–3 hafta
+Hedef: Elektronik bileşenleri tanımak ve Arduino ile tanışmak
+Yapılacaklar:
+- Direnç, LED, buton, potansiyometre gibi bileşenleri öğren
+- Arduino Uno edin, Arduino IDE kur
+- LED yakma kodu ile başla
+Mini Proje: Butona basınca LED yakan sistem
+
+🔹 AŞAMA 2: Sensörler ve Giriş/Çıkış Kontrolü
+Süre: 3–4 hafta
+Hedef: Gerçek dünya verilerini okumak ve işlemek
+Yapılacaklar:
+- DHT11, HC-SR04, LDR gibi sensörleri öğren
+- Seri port üzerinden veri okuma/yazma
+- Input doğrulama ve hata kontrolü ekle
+Mini Proje: Ortam sıcaklığına göre fan kontrolü
+
+🔹 AŞAMA 3: Gerçek Zamanlı Sistem Mantığı ve Modüler Kodlama
+Süre: 3–4 hafta
+Hedef: Kodun modülerliğini ve zamanlamasını yönetmek
+Yapılacaklar:
+- millis() ve delay() farkını öğren
+- Fonksiyonlara bölerek modüler kod yaz
+- DEBUG çıktısı ile sistem analizi yap
+Mini Proje: Ultrasonik sensörle mesafe ölçümü ve ekranda gösterim
+
+🔹 AŞAMA 4: İleri Seviye Gömülü Sistemler – STM32 ve RTOS’a Giriş
+Süre: 4–6 hafta
+
+Hedef: Profesyonel uçuş kontrol sistemlerine yaklaşmak
+Yapılacaklar:
+- STM32F4 Discovery kiti edin
+- HAL kütüphaneleriyle GPIO, UART, Timer kullan
+- FreeRTOS ile görev yönetimi öğren
+Mini Proje: 3 görevli sistem: sıcaklık ölçümü, LED kontrolü, seri port loglama
+
+🎒 Kaynak Önerileri:
+- Kitap: “Make: Elektronik”
+- YouTube: Volkan Aktaş Arduino, STM32 Eğitim Serisi
+- Simülasyon: Tinkercad
+- Forum: ElektrikPort, GitHub
+
+💡 Bonus: Loglama ve Zaman Damgası
+Her projede:
+- Seri port üzerinden işlem geçmişi yazdır
+- millis() ile zaman damgası ekle
+- İleride SD kart modülü ile dosya kaydı dene

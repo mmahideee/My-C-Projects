@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759935615 source:c:\users\mmahi\desktop\c pratice\hesap makinesi 2\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+

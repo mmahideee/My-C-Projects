@@ -1,0 +1,12 @@
+Operation: Subtraction | Input1: 5.00 | Input2: 9.00 | Result: -4.00
+Operation: Addittion | Input1: 2.00 | Input2: 2.00 | Result: 4.00
+Operation: 01.082025 - 23:09 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
+Operation: 01.082025 - 23:09 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
+Operation: 04.082025 - 17:57 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
+Operation: 04.082025 - 17:57 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
+Operation: 05.082025 - 17:07 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
+Operation: 02.102025 - 23:41 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
+Operation: 10.102025 - 10:43 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
+Operation: 14.102025 - 15:17 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
+Operation: 14.102025 - 15:17 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
+Operation: 14.102025 - 15:17 | Input1: 0.00 | Input2: 0.00 | Result: 0.00
